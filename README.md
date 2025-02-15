@@ -1,3 +1,5 @@
+![](https://github.com/Himanshujoshi885/Himanshujoshi885/raw/main/github-header-image-2.gif)
+
 Hi there!I'm Himanshu Joshi 🤖🚀
 
 I am a Machine Learning & Computer Vision Enthusiast 🎯 with experience in Deep Learning 🧠, AI 🤖, and Data Science 📊. Passionate about solving real-world problems 🌍 using cutting-edge AI technologies, I have worked on projects involving Neural Networks 🕸️, PyTorch 🔥, TensorFlow 🔬, and Computer Vision 👀.
